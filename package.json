@@ -1,0 +1,19 @@
+{
+  "name": "gerador-de-senha-js",
+  "version": "1.0.0",
+  "description": "Criei esse gerador de senha com Js para usos pessoais.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItalianFanBoy/Gerador-de-Senha-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItalianFanBoy/Gerador-de-Senha-JS/issues"
+  },
+  "homepage": "https://github.com/ItalianFanBoy/Gerador-de-Senha-JS#readme"
+}
